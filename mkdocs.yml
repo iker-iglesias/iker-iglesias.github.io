@@ -3,7 +3,9 @@ site_author: Iker Iglesias González
 site_url: https://iker-iglesias.github.io
 
 theme:
-  name: readthedocs  # Prueba: material, mkdocs, readthedocs
+  name: material  # Prueba: material, mkdocs, readthedocs
+  palette:
+    scheme: slate
 
 nav:
   - Inicio: index.md
