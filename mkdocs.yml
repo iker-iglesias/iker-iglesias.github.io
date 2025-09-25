@@ -1,0 +1,14 @@
+site_name: Mi Página Personal
+site_author: Iker Iglesias González
+site_url: https://iker-iglesias.github.io
+
+theme:
+  name: readthedocs  # Prueba: material, mkdocs, readthedocs
+
+nav:
+  - Inicio: index.md
+  - Sobre Mí: sobre-mi.md
+  - Proyectos: proyectos.md
+  - Contacto: contacto.md
+
+repo_url: https://github.com/iker-iglesias/iker-iglesias.github.io
