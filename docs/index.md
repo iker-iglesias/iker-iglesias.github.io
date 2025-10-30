@@ -7,5 +7,4 @@ Me gusta el fútbol y los videojuegos a la vez que pasar tiempo con mis amigos.
 Soy una persona trabajadora y dispuesto a aprender cosas nuevas.
 
 ## Proyectos destacados 
-- Proyecto 1: [descripción]
-- Proyecto 2: [descripción]
+
