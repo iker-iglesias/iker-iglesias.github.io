@@ -3,7 +3,7 @@ site_author: Iker Iglesias González
 site_url: https://iker-iglesias.github.io
 
 theme:
-  name: material  # Prueba: material, mkdocs, readthedocs
+  name: material
   palette:
     scheme: slate
 
@@ -14,3 +14,7 @@ nav:
   - Contacto: contacto.md
 
 repo_url: https://github.com/iker-iglesias/iker-iglesias.github.io
+
+markdown_extensions:
+  - attr_list
+  - md_in_html

@@ -19,6 +19,6 @@
 ## Experiencia
 Prácticas hechas en eXentia Solutions (Feb. 2025 - Jun. 2025). En esta empresa me encargue de la creación y mantenimiento de páginas web, es decir, implementar nuevas funciones, ...
 
-## Curriculum
+## Currículum
 
-[Descargar mi currículum :fontawesome-solid-file-pdf:](assets/cv.pdf){ .md-button .md-button--primary target=_blank }
+[Descargar mi currículum](assets/cv.pdf){ .md-button .md-button--primary target=_blank }
