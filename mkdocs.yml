@@ -8,9 +8,7 @@ theme:
     scheme: slate
 
 nav:
-  - Inicio: index.md
-  - Sobre Mí: sobre-mi.md
-  - Proyectos: proyectos.md
+  - Sobre Mí: index.md
   - Contacto: contacto.md
 
 repo_url: https://github.com/iker-iglesias/iker-iglesias.github.io
