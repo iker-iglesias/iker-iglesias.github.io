@@ -4,7 +4,7 @@
 - DAM3 - Somorrostro (2023-2025)
 - IAB4 - Somorrostro (2025-Actualidad)
 
-## Habilidades
+## Hard Skills
 - Python
 - Git
 - Java
