@@ -1,4 +1,4 @@
-site_name: Mi Página Personal
+site_name: Iker Iglesias González
 site_author: Iker Iglesias González
 site_url: https://iker-iglesias.github.io
 
@@ -6,13 +6,15 @@ theme:
   name: material
   palette:
     scheme: slate
+  features:
+    - navigation.tabs
 
 nav:
   - Sobre Mí: index.md
   - Contacto: contacto.md
 
-repo_url: https://github.com/iker-iglesias/iker-iglesias.github.io
-
 markdown_extensions:
   - attr_list
   - md_in_html
+
+plugins: []
